@@ -1,6 +1,8 @@
 build/
 node_modules/
 deployments/
+scripts/
+deploy/
 tasks/
 tasks/*
 .secret
@@ -8,10 +10,10 @@ tasks/*
 .env
 artifacts
 cache
-test/SolarDistributorV2.test.js
 package-lock.json
 yarn.lock
 yarn-error.log
 core_contracts.json
 hardhat.config.js
 .idea/
+**/.DS_Store
