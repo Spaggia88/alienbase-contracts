@@ -1,0 +1,11 @@
+Ce dépôt est un **fork** du projet original :
+
+Fork réalisé par **Spaggia88** 🏝️  
+Ce fork me sert à :
+- Expérimenter des idées 💡  
+- Tester des modifications sans impacter le projet principal 🧪  
+- Apprendre, bidouiller et m’amuser un peu avec le code 😄  
+
+Ce n’est pas une version officielle du projet, mais une version personnalisée à mes besoins ou mes tests.
+
+💬 Contact : [https://github.com/Spaggia88](https://github.com/Spaggia88)
